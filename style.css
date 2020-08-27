@@ -1,0 +1,79 @@
+body {
+    background: #ccccff;
+    color: #555;
+    font-family: Arial, Helvetica, san-serif;
+    font-size: 16px;
+    font-weight: normal;
+    font: 16px Arial, Helvetica, san-serif;
+    line-height: 1.6em;
+    margin: 0;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+    overflow: auto;
+}
+
+#top-header {
+    background-color: #1a0000;
+    color: #fff;
+}
+
+#links {
+    background-color: #b3ffb3;
+}
+
+    #links a {
+        color: #333300;
+        text-align: right;
+    }
+
+#links li {
+        display: inline;
+}
+
+#view-me {
+    box-sizing: border-box;
+    padding: 15px;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:50px;
+    margin-bottom:50px;
+   
+    background-color: #b3b3ff;
+    color: #00001a;
+}
+
+#projects {
+    border: 3px dotted green;
+    padding: 15px;
+    margin-left:auto;
+}
+#skills {
+    padding:15px;
+    box-sizing: border-box;
+    margin-top: 15px;
+    border: 1px grey solid;
+    border-radius: 3px;
+    background-color: #b3cce6;
+    color: #000000;
+}
+#contact {
+    border: 3px dotted black;
+    float: right;
+    margin-left: 80px;
+    margin-right:450px;
+    margin-top:15px;
+    margin-bottom:auto;
+    
+    padding: 15px;
+}
+
+#main-footer {
+    text-align: center;
+    padding: 15px;
+    margin-top: 150px;
+
+}
+
